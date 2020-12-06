@@ -4,3 +4,6 @@ venv
 .npz
 *.pt
 !Dockerfile.pt
+data_collection/dataset
+.idea
+*__pycache__
